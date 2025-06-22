@@ -22,8 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://sonarqube-test.apps.684b1059b9e77e1826ddd10e.ocp.techzone.ibm.com/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>test@123</sonar.password> 
+		<sonar.login>squ_b8d1b603c678a58fd849732378c47b5c427b601d</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
