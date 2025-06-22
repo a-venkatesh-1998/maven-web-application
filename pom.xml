@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://nexus-nexus-repository-manager-test.apps.684b1059b9e77e1826ddd10e.ocp.techzone.ibm.com/repository/venky-snapshot/</url>
+	      <url>http://nexus-nexus-repository-manager-test.apps.684b1059b9e77e1826ddd10e.ocp.techzone.ibm.com/repository/venky-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://nexus-nexus-repository-manager-test.apps.684b1059b9e77e1826ddd10e.ocp.techzone.ibm.com/repository/venky-release/</url>
+	      <url>http://nexus-nexus-repository-manager-test.apps.684b1059b9e77e1826ddd10e.ocp.techzone.ibm.com/repository/venky-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
